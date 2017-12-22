@@ -3,6 +3,13 @@
     <keyboard-shortcut first-keystroke="alt up" />
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="ctrl meta o" />
+  </action>
+  <action id="FindWordAtCaret">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
