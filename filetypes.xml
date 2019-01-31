@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="config" type="JSON" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="dsfsa" type="PLAIN_TEXT" />
       <mapping ext="store" type="PLAIN_TEXT" />
