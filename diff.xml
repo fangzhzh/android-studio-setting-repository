@@ -1,4 +1,8 @@
 <application>
+  <component name="DiffManager">
+    <filesTool value="/usr/local/bin/ksdiff" newValue="/usr/local/bin/ksdiff" />
+    <mergeToolParameters value="%1 %2 %3 %4" />
+  </component>
   <component name="DiffSettings">
     <option name="PLACES_MAP">
       <entry key="VcsLogView">
