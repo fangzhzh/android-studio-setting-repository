@@ -6,7 +6,7 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern icon="important" useCustomColors="true" pattern="\bimportant\b.*">
-      <option name="FOREGROUND" value="c04727" />
+      <option name="FOREGROUND" value="c0b904" />
       <option name="FONT_TYPE" value="2" />
       <option name="ERROR_STRIPE_COLOR" value="977ab" />
     </pattern>
