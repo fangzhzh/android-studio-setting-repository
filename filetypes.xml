@@ -6,6 +6,7 @@
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="dsfsa" type="PLAIN_TEXT" />
       <mapping ext="store" type="PLAIN_TEXT" />
+      <mapping ext="shp" type="PLAIN_TEXT" />
       <mapping ext="tap" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
