@@ -3,12 +3,13 @@
     <ignoreFiles list="*.hprof;*.o;*.obj;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="config" type="JSON" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="policy" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="dsfsa" type="PLAIN_TEXT" />
-      <mapping ext="store" type="PLAIN_TEXT" />
-      <mapping ext="shp" type="PLAIN_TEXT" />
       <mapping ext="tap" type="PLAIN_TEXT" />
+      <mapping ext="shp" type="PLAIN_TEXT" />
+      <mapping ext="store" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
   </component>
