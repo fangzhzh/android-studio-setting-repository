@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping ext="config" type="JSON" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="policy" type="PLAIN_TEXT" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="dsfsa" type="PLAIN_TEXT" />
