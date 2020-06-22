@@ -3,8 +3,11 @@
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
+    <option name="FILE_MASK" value="*.kt" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -17,7 +20,7 @@
     <mask>*Test.kt</mask>
     <mask>*DI.kt</mask>
     <mask>*Test*.kt</mask>
-    <mask>*.kt</mask>
     <mask>*.gradle</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
