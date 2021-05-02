@@ -4,13 +4,13 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping ext="config" type="JSON" />
-      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="TODO" type="PLAIN_TEXT" />
       <mapping pattern="dsfsa" type="PLAIN_TEXT" />
       <mapping pattern="policy" type="PLAIN_TEXT" />
-      <mapping ext="tap" type="PLAIN_TEXT" />
       <mapping ext="shp" type="PLAIN_TEXT" />
+      <mapping ext="tap" type="PLAIN_TEXT" />
       <mapping ext="store" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
     </extensionMap>
