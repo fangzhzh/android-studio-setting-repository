@@ -15,7 +15,7 @@
     <mask>*DI.kt</mask>
     <mask>*Test*.kt</mask>
     <mask>*.xml</mask>
-    <mask>*.kt</mask>
     <mask>*.gradle</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
